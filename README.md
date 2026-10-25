@@ -31,9 +31,15 @@ Thomas Cole died in 1848, so the paintings are in the public domain. The scans i
 | 7-schroon-mountain.webp | View of Schroon Mountain, Essex County, New York, After a Storm | 1838 | The Cleveland Museum of Art, public domain |
 | 8-the-departure.webp | The Departure | 1837 | National Gallery of Art, CC0 |
 | 9-the-return.webp | The Return | 1837 | National Gallery of Art, CC0 |
+| 10-voyage-childhood.webp | The Voyage of Life: Childhood | 1842 | National Gallery of Art, public domain |
+| 11-voyage-youth.webp | The Voyage of Life: Youth | 1842 | National Gallery of Art, public domain |
+| 12-voyage-manhood.webp | The Voyage of Life: Manhood | 1842 | National Gallery of Art, public domain |
+| 13-voyage-old-age.webp | The Voyage of Life: Old Age | 1842 | National Gallery of Art, public domain |
+| 14-the-titans-goblet.webp | The Titan's Goblet | 1833 | The Metropolitan Museum of Art, CC0 |
+| 15-the-architects-dream.webp | The Architect's Dream | 1840 | Public domain, via Wikimedia Commons |
 
 ## License
 
 The theme files (`colors.toml`, `icons.theme`, this README) are under the MIT license. See [LICENSE](LICENSE).
 
-The paintings are public domain. The National Gallery of Art released *The Departure* and *The Return* under [CC0](https://creativecommons.org/publicdomain/zero/1.0/). Nothing in this repository requires attribution.
+The paintings are public domain. The National Gallery of Art released *The Departure* and *The Return* under [CC0](https://creativecommons.org/publicdomain/zero/1.0/). The Metropolitan Museum of Art released *The Titan's Goblet* under CC0. Nothing in this repository requires attribution.
