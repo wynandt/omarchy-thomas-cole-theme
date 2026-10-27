@@ -20,17 +20,9 @@ omarchy theme install https://github.com/wynandt/omarchy-thomas-cole-theme
 
 ## Preview
 
-<!--
-TODO(screenshot): replace this comment with a real full-desktop screenshot,
-then save the same file as preview.png at the repo root.
-To capture it on Omarchy:
-  1. Apply the theme: Super + Ctrl + Shift + Space, pick "Thomas Cole".
-  2. Open a terminal (btop or fastfetch), an editor and a browser side by side
-     so the wallpaper, Waybar and window borders all show.
-  3. Press Print Screen (Omarchy's screenshot binding).
-  4. Save it as preview.png (16:9, at least 1000 px wide).
-Note: applying a theme reloads Hyprland, which can drop open remote sessions.
--->
+![Thomas Cole applied to an Omarchy desktop: two terminals on the left, a browser on the right, gold window borders, and the painted wallpaper behind them](preview.png)
+
+The theme in use: terminals, a browser, window borders and the wallpaper.
 
 A few of the bundled wallpapers, downsized for this page. The full-size files are in `backgrounds/`.
 
@@ -48,6 +40,10 @@ A few of the bundled wallpapers, downsized for this page. The full-size files ar
 <td><img src="docs/images/15-the-architects-dream.jpg" alt="The Architect's Dream"><br><sub><b>The Architect's Dream</b> (1840), public domain, via Wikimedia Commons</sub></td>
 </tr>
 </table>
+
+## About Thomas Cole
+
+This theme celebrates the paintings of Thomas Cole (1801 to 1848). He was born in Bolton, England, and emigrated to the United States as a teenager. He founded the Hudson River School, the first major American art movement, and painted *The Course of Empire* (1833 to 1836), *The Voyage of Life* (1840 to 1842) and *The Oxbow* (1836). He lived and worked at Cedar Grove in Catskill, New York. His dramatic skies and glowing valleys still feel alive almost two centuries later. If you enjoy the colors on your desktop, [read more about him on Grokipedia](https://grokipedia.com/page/Thomas_Cole).
 
 ## Palette
 
